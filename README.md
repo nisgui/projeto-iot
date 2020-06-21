@@ -30,4 +30,4 @@ Para este projeto utilizamos a comunicação via MQTT utilizando um broker (Mo
 
 Após isso, colocando o DEPLOY e indo na Dashboard do Node-red, podemos ver o funcionamento do projeto conforme a temperatura atinge 22 graus, é ativado o micro cooler.
 
-
+![GitHub Logo](/dashboard.png)
