@@ -18,3 +18,9 @@ Lista de Peças
 **Descrição do funcionamento e uso para quem quiser reproduzir:**
 
 Primeiro de tudo, é preciso realizar a conexão de todos componentes na protoboard, sendo estes componentes: fios, resistores, jumpers, sensor de temperatura e o cooler (sendo representado como um motor no tinkercad). Conforme ilustrado na figura abaixo:
+![GitHub Logo](/tinkercad.png)
+
+Depois disso, para este projeto utilizamos o protocolo firmata, que é um protocolo para comunicação com microcontroladores a partir de software em um computador. Para utiliza-lo, na IDE do Arduino temos na barra de exemplos o sketch ja pronto, chamado StandardFirmata. A partir disso, apenas colocar para rodar o código.
+
+ Após isso iniciamos a aplicação no Node Red que vai trabalhar como servidor, na figura a seguir temos a montagem dos nodes da aplicação começando pelo LM35 e terminando com o acionamento do cooler: 
+ 
