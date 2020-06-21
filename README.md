@@ -25,4 +25,9 @@ Depois disso, para este projeto utilizamos o protocolo firmata, que é um protoc
  Após isso iniciamos a aplicação no Node Red que vai trabalhar como servidor, na figura a seguir temos a montagem dos nodes da aplicação começando pelo LM35 e terminando com o acionamento do cooler: 
 
 ![GitHub Logo](/nodered.png)
- 
+
+Para este projeto utilizamos a comunicação via MQTT utilizando um broker (Mosquitto), no qual possibilitou o envio e recebimento de mensagens referentes aos resultados obtidos ao simplesmente acessar o IP onde se encontra o dashboard de monitoramento.
+
+Após isso, colocando o DEPLOY e indo na Dashboard do Node-red, podemos ver o funcionamento do projeto conforme a temperatura atinge 22 graus, é ativado o micro cooler.
+
+
