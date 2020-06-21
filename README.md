@@ -19,7 +19,7 @@ Lista de Peças
 
 **src/** contem os códigos desenvolvidos
 
-**doc/** documentação do projeto
+**docs/** documentação do projeto
 
 **Descrição do funcionamento e uso para quem quiser reproduzir:**
 
