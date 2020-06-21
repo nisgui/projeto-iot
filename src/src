@@ -1,1 +1,21 @@
+Codigos dentro das funções do node-red:
 
+Temperatura:
+msg.payload = (5.0 * msg.payload * 100.0) / 1024.0;
+return msg;
+
+Acionamento cooler:
+var num = msg.payload;
+if (num >= 22){
+    msg.payload = true; 
+}else{
+    msg.payload = false;
+}  return msg;
+
+Convertendo string para boolean:
+var string = msg.payload;
+if (string == "true"){
+    msg.payload = true;
+}else{
+    msg.payload = false;
+} return msg;
