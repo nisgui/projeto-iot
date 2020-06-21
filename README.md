@@ -1,4 +1,4 @@
-# Objetos Inteligentes Conectados 2 sem. 2020
+# Objetos Inteligentes Conectados 2 sem. 2020.
 # Turma 5H11
 # Projeto: Arduino com sensor de temperatura e ativação automática de ventilação
 ## Integrantes do grupo:
