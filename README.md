@@ -15,6 +15,12 @@ Lista de Peças
 * 01 - Sensor de Temperatura LM35
 * 01 - Micro Cooler 5V
 
+**Obs:**
+
+**src/** contem os códigos desenvolvidos
+
+**doc/** documentação do projeto
+
 **Descrição do funcionamento e uso para quem quiser reproduzir:**
 
 Primeiro de tudo, é preciso realizar a conexão de todos componentes na protoboard, sendo estes componentes: fios, resistores, jumpers, sensor de temperatura e o cooler (sendo representado como um motor no tinkercad). Conforme ilustrado na figura abaixo:
