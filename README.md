@@ -24,5 +24,5 @@ Depois disso, para este projeto utilizamos o protocolo firmata, que é um protoc
 
  Após isso iniciamos a aplicação no Node Red que vai trabalhar como servidor, na figura a seguir temos a montagem dos nodes da aplicação começando pelo LM35 e terminando com o acionamento do cooler: 
 
-![GitHub Logo](/node-red 5.png)
+![GitHub Logo](/nodered.png)
  
